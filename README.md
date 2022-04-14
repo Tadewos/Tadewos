@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Tadewos Getachew
-- 👀 I’m interested in water quality and wastewater treatment processes as well as fulfiling requirments through clean and renewable energy options.
-- 🌱 I’m currently looking  for hire in Environmental Engineering.
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
+- 👀 I’m interested in using machine learning techniques to solve water and environmental challenges.
+- 🌱 I’m currently looking for hire in Environmental, Data, and/or Software Engineering.
+- 💞️ I’m looking to collaborate on COVID-19 outbreak predictions using machine learning by way of wastewater monitoring.
+- 📫 You can reach me getu@umich.edu
 
 <!---
 Tadewos/Tadewos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
