@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tadewos Getachew
 - 👀 I’m interested in using machine learning techniques to solve water and environmental challenges.
-- 🌱 I’m currently looking for hire in Environmental, Data, and/or Software Engineering.
+- 🌱 I'm a Water Resource Engineer at the California State Water Resource Control Board.
 - 💞️ I’m looking to collaborate on COVID-19 outbreak predictions using machine learning by way of wastewater monitoring.
 - 📫 You can reach me getu@umich.edu
 
